@@ -20,7 +20,7 @@ This repository documents a hands-on lab focused on using basic Linux Bash comma
 
 ## Screenshots
 
-All screenshots are available in the full lab report attached.
+All screenshots are available in the full lab report attached below.
 
 ## Full Lab Report
 
