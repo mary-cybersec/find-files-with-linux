@@ -18,11 +18,11 @@ This repository documents a hands-on lab focused on using basic Linux Bash comma
 | 4️⃣ | Navigate to `/logs` and preview log file contents |
 | 5️⃣ | Recap of key Linux commands used |
 
-## 📸 Screenshots
+## Screenshots
 
-All screenshots are available in the `/screenshots` folder.
+All screenshots are available in the full lab report attached.
 
-## 📄 Full Lab Report
+## Full Lab Report
 
 [➡️ Download Full PDF Report](./Linux_Lab_Find_Files_Report.pdf)
 
